@@ -1,0 +1,14 @@
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\Task-1.AssemblyInfoInputs.cache
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\Task-1.AssemblyInfo.cs
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\Task-1.csproj.CoreCompileInputs.cache
+D:\visual-studio\Task-1\Task-1\bin\Debug\net6.0\Task-1.exe
+D:\visual-studio\Task-1\Task-1\bin\Debug\net6.0\Task-1.deps.json
+D:\visual-studio\Task-1\Task-1\bin\Debug\net6.0\Task-1.runtimeconfig.json
+D:\visual-studio\Task-1\Task-1\bin\Debug\net6.0\Task-1.dll
+D:\visual-studio\Task-1\Task-1\bin\Debug\net6.0\Task-1.pdb
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\Task-1.dll
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\refint\Task-1.dll
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\Task-1.pdb
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\Task-1.genruntimeconfig.cache
+D:\visual-studio\Task-1\Task-1\obj\Debug\net6.0\ref\Task-1.dll

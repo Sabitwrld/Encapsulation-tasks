@@ -1,0 +1,14 @@
+D:\visual-studio\task-2\task-2\bin\Debug\net6.0\task-2.exe
+D:\visual-studio\task-2\task-2\bin\Debug\net6.0\task-2.deps.json
+D:\visual-studio\task-2\task-2\bin\Debug\net6.0\task-2.runtimeconfig.json
+D:\visual-studio\task-2\task-2\bin\Debug\net6.0\task-2.dll
+D:\visual-studio\task-2\task-2\bin\Debug\net6.0\task-2.pdb
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\task-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\task-2.AssemblyInfoInputs.cache
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\task-2.AssemblyInfo.cs
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\task-2.csproj.CoreCompileInputs.cache
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\task-2.dll
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\refint\task-2.dll
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\task-2.pdb
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\task-2.genruntimeconfig.cache
+D:\visual-studio\task-2\task-2\obj\Debug\net6.0\ref\task-2.dll
